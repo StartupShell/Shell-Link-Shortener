@@ -13,5 +13,8 @@
     "express": "^4.9.0",
     "hiredis": "^0.1.17",
     "redis": "^0.12.1"
+  },
+  "devDependencies": {
+    "assert": "^1.1.2"
   }
 }
