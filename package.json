@@ -1,0 +1,17 @@
+{
+  "name": "Shell-Link-Shortener",
+  "version": "0.0.0",
+  "description": "Shell Link Shortener",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "@JaxGeller",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.9.0",
+    "hiredis": "^0.1.17",
+    "redis": "^0.12.1"
+  }
+}
